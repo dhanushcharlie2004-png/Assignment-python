@@ -68,6 +68,12 @@ First_name="hari"
 Last_name="krishnan"                    #concatenation concept (joining two strings)
 print(First_name + " " + Last_name)
 
+name="hari krishnan"
+print(name.index("a"))
+  # index concept (finding the index of a character in the string)
+
+s="Pythonh"# 
+print(s[4:1:-1]) # slicing concept (extracting a substring from the string in reverse order)
 
 
 
